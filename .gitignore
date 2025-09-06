@@ -1,0 +1,14 @@
+
+node_modules/
+npm-debug.log*
+.env
+logs
+*.log
+
+.npm
+.node_repl_history
+
+.vscode/
+.idea/
+*.swp
+*.swo
